@@ -15,6 +15,7 @@ const powerCount = document.getElementById("powerCount");
 let count = 0;
 const maxCount = 50;
 // Initialize team counts and attendees list, and winner info
+
 let teamCounts = {
   water: 0,
   zero: 0,
